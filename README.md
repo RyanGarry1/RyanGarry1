@@ -2,7 +2,7 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Home Lab and Attack Map (Microsoft Azure & Sentinel)</b>
-  - [Live Attack Map Project](https://github.com/RyanGarry1/)
+  - [Live Attack Map Project](https://github.com/RyanGarry1/Home-Lab-Attack-Map)
 
 
 <h2>🧑‍💻 Software Development Projects</h2>
